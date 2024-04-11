@@ -1,0 +1,2 @@
+borsh_construct==0.1.0
+Requests==2.31.0
